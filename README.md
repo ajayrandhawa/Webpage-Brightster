@@ -2,6 +2,10 @@
 
 Brightster Web Page (HTML/CSS)
 
+## Screenshot
+
+![1](https://user-images.githubusercontent.com/30903923/39439075-0521b452-4cc4-11e8-98ff-821385624285.PNG)
+
 ## Getting Started
 
 1. Header
