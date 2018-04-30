@@ -4,7 +4,7 @@ Brightster Web Page (HTML/CSS)
 
 ## Screenshot
 
-![1](https://user-images.githubusercontent.com/30903923/39439075-0521b452-4cc4-11e8-98ff-821385624285.PNG)
+!(https://user-images.githubusercontent.com/30903923/39439233-8964b4f8-4cc4-11e8-8878-1b59e6cdf7be.jpg)
 
 ## Getting Started
 
