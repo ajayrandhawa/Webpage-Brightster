@@ -1,6 +1,4 @@
-# Project Title
-
-Brightster Web Page (HTML/CSS)
+# Brightster Web Page (HTML/CSS)
 
 ## Screenshot
 
