@@ -1,0 +1,151 @@
+/*======================================================
+				NAV BAR STYLING
+======================================================*/
+
+*{	margin: 0; 
+	padding: 0; 
+	background: #F2F2F2;
+}
+#nav-wrapper{ 
+	width: 100%;
+	border-bottom: 5px solid #DEDEDE;
+}
+#nav-container{ 
+	width: 968px;
+	margin: 0 auto;
+}
+#nav-holder a{ 
+	text-decoration: none; 
+	color: #9A9A9A; 
+	padding: 0 40px 5px 0px;
+	font-family: georgian;
+}
+#nav-holder ul li{
+	display: inline-block;
+	margin-left: -4px;
+	margin-bottom: 10px;
+}
+#nav-holder [type="text"]{
+	float: right;
+	margin-top: 30px;
+	border: 1px solid #fff;
+	width: 200px;
+}
+#nav-holder a:hover{ color: #66CCFF; }
+/*
+*		PICTURE STYLING
+*/
+#pic-wrapper{ 
+	width: 100%;
+	height: 310px;
+	border-bottom: 5px solid #E5E5E5 }
+#pic-container{ 
+	width: 968px;
+	margin: 15px auto; }
+#pic{
+	width: 300px;	
+	display: inline-block;
+	color: #999999;
+	position: absolute;
+}
+#pic-img{ 
+	display: inline-block;
+	float: right;
+}
+/*
+*		MAIN STYLING
+*/
+#main-container{
+	width: 968px;
+	margin: auto;
+	color: #999999;
+}
+#left-holder{
+	width: 668px;
+	float: left;
+}
+#company-name h1{ 
+	color: #66CCFF; 
+	padding-top: 10px; 
+	font-family: cursive; 
+}
+
+#company-name{ 
+	padding: 50 0 20 0; 
+}
+
+
+#company p{ 
+	padding: 5 30 40 0; 
+	line-height: 1.4em;
+}
+#news2{ 
+	display: inline-block;  
+	color: #808080;  
+	width: 300px;  
+	text-align: justify; 
+}
+#news{	
+	color: #808080; 
+	display: inline-block;
+	width: 300px;
+	position: relative;  
+	text-align: justify;
+}
+#news h2, #news2 h2{ 
+	padding-left: 10px; 
+	color: #444444; 
+}
+#news p, #news2 p{ padding: 10px;  }
+/*
+*			RIGHT STYLING
+*/
+#right-holder{
+	padding-left: 15px;
+}
+#img-info{ padding: 40px 2px; }
+#ul h2{ padding: 15px 0px; }
+#ul ul li{ line-height: 1.9em; }
+
+
+
+
+
+
+
+
+
+#footer-wrapper{ 
+	width: 100%; 
+	clear: both;   
+}
+#footer-container{ 
+	width: 968px;  
+	margin: auto;  
+	height: 70px; 
+}
+#footer-holder > p{ 
+	padding: 22px 0px; 
+	font-size: 15px;   
+	display: inline-block;   
+	color: #666666; 
+}
+#footer-holder > #IInd-p{ 
+	float: right; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
